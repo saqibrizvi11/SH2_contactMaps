@@ -1,0 +1,4 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+4Z32	E	G	SHEETD2_2	LOOP28	F	512	E	448	2	CZ-OE1	S-S	3.62297
+4Z32	E	G	SHEETD2_2	LOOP28	F	512	E	448	2	CZ-OE2	S-S	3.87579
+

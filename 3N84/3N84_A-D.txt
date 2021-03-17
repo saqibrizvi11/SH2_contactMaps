@@ -1,0 +1,5 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+3N84	A	D	LOOP4	LOOP5	N	103	G	114	3	CG-O	S-M	3.87899
+3N84	A	D	LOOP4	LOOP5	N	103	G	114	3	OD1-O	S-M	3.86023
+3N84	A	D	LOOP4	LOOP5	N	103	G	114	3	ND2-O	S-M	3.03977
+

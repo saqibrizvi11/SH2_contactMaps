@@ -1,0 +1,10 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+5CDW	D	a			S	1	V	3	2	HB2-HG22	S-S	3.27594
+5CDW	D	a			S	1	V	3	2	H1-HG22	S-S	3.67289
+5CDW	D	a			PTR	2	S	1	6	P-HG	L-S	3.73184
+5CDW	D	a			PTR	2	S	1	6	O2P-CB	L-S	3.2984
+5CDW	D	a			PTR	2	S	1	6	O2P-OG	L-S	3.10277
+5CDW	D	a			PTR	2	S	1	6	O2P-HB2	L-S	2.89847
+5CDW	D	a			PTR	2	S	1	6	O2P-HB3	L-S	3.35352
+5CDW	D	a			PTR	2	S	1	6	O2P-HG	L-S	2.41102
+

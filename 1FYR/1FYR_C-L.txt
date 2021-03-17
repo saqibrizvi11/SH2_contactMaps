@@ -1,0 +1,6 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+1FYR	C	L			HOH	1099	N	2	3	O-CB	W-S	3.3169
+1FYR	C	L			HOH	1099	N	2	3	O-CG	W-S	3.9647
+1FYR	C	L			HOH	1099	N	2	3	O-ND2	W-S	3.89366
+1FYR	C	L			HOH	1155	V	1	1	O-CG1	W-S	3.54113
+

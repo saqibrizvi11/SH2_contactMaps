@@ -1,0 +1,3 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+5CDW	P	s			S	89	V	1004	1	HB2-HG11	S-S	3.91977
+

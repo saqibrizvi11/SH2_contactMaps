@@ -1,0 +1,4 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+1A81	C	J	LOOP8	LOOP2	Q	111	N	185	2	OE1-ND2	S-S	3.82663
+1A81	C	J	LOOP8	LOOP2	Q	111	N	185	2	CD-ND2	S-S	3.95859
+

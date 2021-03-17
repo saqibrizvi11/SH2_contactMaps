@@ -1,0 +1,4 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+5BO4	F	L	HELIX23	HELIX52	A	44	F	109	2	CB-CZ	S-S	3.92879
+5BO4	F	L	HELIX23	HELIX52	A	44	F	109	2	CB-CE2	S-S	3.97043
+

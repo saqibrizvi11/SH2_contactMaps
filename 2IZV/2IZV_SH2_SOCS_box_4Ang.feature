@@ -1,0 +1,38 @@
+SH2:SOCS_box	 red
+STARTGROUP	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	49	49	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	66	66	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	91	91	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	44	44	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	33	33	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	67	67	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	68	68	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	41	41	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	2	2	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	70	70	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	73	73	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	48	48	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	92	92	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	62	62	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	56	56	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	51	51	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	54	54	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	77	77	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	60	60	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	65	65	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	55	55	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	94	94	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	72	72	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	45	45	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	51	51	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	96	96	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	50	50	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	1	1	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	58	58	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	68	68	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	69	69	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	95	95	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	93	93	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	34	34	SH2:SOCS_box
+contactMap	2IZV|SOCS4	-1	26	26	SH2:SOCS_box
+ENDGROUP	SH2:SOCS_box

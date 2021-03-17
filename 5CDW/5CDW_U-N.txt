@@ -1,0 +1,6 @@
+PDB	Chain1	Chain2	SS1	SS2	Res1	ResNum1	Res2	ResNum2	Number of atomic contacts	Atoms	Chain Types	Distance
+5CDW	U	N			S	89	V	3	4	CB-HG11	S-S	3.98078
+5CDW	U	N			S	89	V	3	4	OG-HG11	S-S	3.42755
+5CDW	U	N			S	89	V	3	4	HG-HG11	S-S	3.39464
+5CDW	U	N			S	89	V	3	4	HB2-HG11	S-S	3.54297
+
